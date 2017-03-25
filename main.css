@@ -1,0 +1,23 @@
+* {
+	font-family: 'Raleway', sans-serif;
+}
+
+img {
+    border-radius: 100%;
+    /*First things first, I'm the realest, drop this ins and the border bends*/
+    position: center;
+}
+
+
+h1 {
+
+  	font-family: Helvetica, Arial, sans-serif; 
+}
+
+.contact {
+	text-align: center;
+}
+
+p {
+    text-indent: 50px;
+}
